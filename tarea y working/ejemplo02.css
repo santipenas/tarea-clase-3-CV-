@@ -1,0 +1,25 @@
+h1 {color: red;
+    font-weight: bold;
+    font-style: italic; 
+}
+
+h4 {background-color: blueviolet;
+    font-family: cursive;
+}
+
+.destacados {
+    font-variant: small-caps;
+    border: 0cqb;
+    height: max-content;
+    font-family: sans-serif;
+    color: goldenrod;
+}
+
+#caja1 {
+
+    background-color: lightblue;
+    width: 300px;
+    height: fit-content;
+    font-size: small;
+    font-family:inherit
+}
