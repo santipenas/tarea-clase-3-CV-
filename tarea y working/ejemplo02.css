@@ -1,3 +1,4 @@
+
 h1 {color: red;
     font-weight: bold;
     font-style: italic; 
@@ -23,19 +24,27 @@ h4 {background-color: blueviolet;
     font-size: small;
     font-family:inherit;
     box-sizing: border-box;
+    box-shadow: 10px 10px 0px 5px #868686;
     
 }
 
 #caja2 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    width: 250px;
+    width: 250px; 
     height: 450px;
     padding: 20px;
     background-color: burlywood;
     border: 5px solid black;
     box-sizing: border-box;
+    border-radius: 50px;
     
+}
+
+.texto {
+    background-color: darkolivegreen;
+    column-count: 3;
+    padding: 50px;
+    font-family: "Padyakke Expanded One", serif;
 
 }
-     
-
+      
